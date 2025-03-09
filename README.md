@@ -1,9 +1,11 @@
 # Projeto GTA - Landing Page
 
 ## Descrição
+
 Este é um projeto de landing page inspirado no GTA, desenvolvido com HTML, CSS e JavaScript.
 
 ## 📌 Tecnologias Utilizadas
+
 - HTML5
 - CSS3
 - JavaScript
@@ -43,5 +45,6 @@ PROJETO-GTA/
 
 ![Preview do Projeto](./src/imagens/preview.png)
 
-## Licença
-Este projeto é apenas para fins educacionais.
+## 💎 Autor
+
+Criado por **[Alan Borges](https://github.com/alanborgesdev)** 🚀
