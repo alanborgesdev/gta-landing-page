@@ -33,7 +33,7 @@ PROJETO-GTA/
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/alanborgesdev/project-gta
+   git clone https://github.com/alanborgesdev/gta-landing-page
    ```
 2. Acesse a pasta do projeto:
    ```sh
@@ -45,6 +45,6 @@ PROJETO-GTA/
 
 ![Preview do Projeto](./src/imagens/preview.png)
 
-## 💎 Autor
+## 📌 Autor  
 
-Criado por **[Alan Borges](https://github.com/alanborgesdev)** 🚀
+Projeto desenvolvido por **[Alan Borges](https://github.com/alanborgesdev)** no curso **DevQuest**. 
