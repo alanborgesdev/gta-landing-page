@@ -1,5 +1,7 @@
 # Projeto GTA - Landing Page
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+
 ## Descrição
 
 Este é um projeto de landing page inspirado no GTA, desenvolvido com HTML, CSS e JavaScript.
@@ -48,3 +50,7 @@ PROJETO-GTA/
 ## 📌 Autor  
 
 Projeto desenvolvido por **[Alan Borges](https://github.com/alanborgesdev)** no curso **DevQuest**. 
+
+## 📝 Licença
+
+O código-fonte deste projeto está sob a licença MIT.
