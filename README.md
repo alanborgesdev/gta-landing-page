@@ -1,56 +1,47 @@
-# Projeto GTA - Landing Page
+# 🚀 Projeto GTA - Landing Page
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Prévia do Projeto](./src/imagens/preview.png)
 
-## Descrição
+> Landing page inspirada no universo do jogo GTA, desenvolvida com foco em design responsivo e interações com JavaScript.
 
-Este é um projeto de landing page inspirado no GTA, desenvolvido com HTML, CSS e JavaScript.
+### 🔗 [Acesse a Demo Ao Vivo](https://alanborgesdev.github.io/gta-landing-page/)
 
-## 📌 Tecnologias Utilizadas
+---
 
-- HTML5
-- CSS3
-- JavaScript
+### ✨ Funcionalidades Principais
 
-## 📂 Estrutura do Projeto
+- **Carrossel Interativo:** Botões para alternar entre imagens com transições suaves em CSS.
+- **Botão "Comprar":** Link funcional para a página de compra do jogo na loja correspondente (PS, Xbox, PC).
+- **Design Responsivo:** Layout adaptado para uma experiência de usuário ideal em dispositivos móveis e desktops.
+- **Efeitos Visuais:** Efeitos de `hover` e um vídeo de fundo que aumentam a imersão.
 
-```
-PROJETO-GTA/
-│── src/
-│   ├── css/
-│   │   ├── estilos.css
-│   │   ├── fontes.css
-│   │   ├── reset.css
-│   │   ├── responsivo.css
-│   ├── fontes/
-│   │   ├── ChaletComprime.ttf
-│   ├── imagens/
-│   ├── js/
-│   │   ├── index.js
-│── index.html
-│── README.md
-```
+---
 
-## 🛠 Como Rodar o Projeto
+### 🛠️ Tecnologias Utilizadas
 
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/alanborgesdev/gta-landing-page
+- **HTML5** para a estrutura semântica do conteúdo.
+- **CSS3** para estilização, animações e responsividade.
+- **JavaScript** para a manipulação do DOM e interatividade do carrossel.
+
+---
+
+### 🔧 Como Rodar o Projeto
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/alanborgesdev/gta-landing-page.git
+
+# 2. Navegue até o diretório
+cd gta-landing-page
+
+# 3. Abra o arquivo index.html no seu navegador
+# Não é necessário instalar dependências.
    ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd nome-do-repositorio
-   ```
-3. Abra o arquivo `index.html` em um navegador.
 
-## 📸 Screenshots
+## 👤 Autor  
 
-![Preview do Projeto](./src/imagens/preview.png)
-
-## 📌 Autor  
-
-Projeto desenvolvido por **[Alan Borges](https://github.com/alanborgesdev)** no curso **DevQuest**. 
+Este projeto foi desenvolvido por **[Alan Borges](https://github.com/alanborgesdev)** como parte do curso **DevQuest**, , com o objetivo de solidificar os conceitos fundamentais de HTML, CSS e JavaScript na prática. 
 
 ## 📝 Licença
 
-O código-fonte deste projeto está sob a licença MIT.
+O código-fonte deste projeto está licenciado sob a [Licença MIT](LICENSE).
