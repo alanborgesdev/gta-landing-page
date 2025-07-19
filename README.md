@@ -36,12 +36,16 @@ cd gta-landing-page
 
 # 3. Abra o arquivo index.html no seu navegador
 # Não é necessário instalar dependências.
-   ```
+```
 
-## 👤 Autor  
+---
 
-Este projeto foi desenvolvido por **[Alan Borges](https://github.com/alanborgesdev)** como parte do curso **DevQuest**, , com o objetivo de solidificar os conceitos fundamentais de HTML, CSS e JavaScript na prática. 
+### 👤 Autor  
 
-## 📝 Licença
+Este projeto foi desenvolvido por **[Alan Borges](https://github.com/alanborgesdev)** como parte do curso **DevQuest**,com o objetivo de solidificar os conceitos fundamentais de HTML, CSS e JavaScript na prática. 
+
+---
+
+### 📝 Licença
 
 O código-fonte deste projeto está licenciado sob a [Licença MIT](LICENSE).
